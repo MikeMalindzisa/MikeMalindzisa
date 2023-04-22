@@ -4,7 +4,7 @@
 [![Eye](https://visitcount.itsvg.in/api?id=MikeMalindzisa&icon=5&color=3)](https://visitcount.itsvg.in)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=MikeMalindzisa&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MikeMalindzisa&theme=react&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MikeMalindzisa&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeMalindzisa&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
